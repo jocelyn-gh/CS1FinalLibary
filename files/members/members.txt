@@ -1,0 +1,16 @@
+Wolfie, Wolf
+8 0
+Cattz, Twitch
+7 1
+Smith, John Adam
+6 0
+Winston Jr., James
+5 0
+Brown, Nancy
+4 0
+Markson, Kathy
+3 0
+Larson, Karl
+2 0
+SwiftPaw, Gry
+1 1
